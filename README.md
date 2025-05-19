@@ -1,1 +1,3 @@
-# Pipeline_Test_Python
+# Projet CI/CD Python
+
+Exemple de pipeline CI/CD avec tests unitaires.
